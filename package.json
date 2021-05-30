@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my portolio :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grettsam/portfolio"
+  },
+  "author": "Sebastian Infante Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grettsam/portfolio/issues"
+  },
+  "homepage": "https://github.com/grettsam/portfolio#readme"
+}
